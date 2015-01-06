@@ -49,7 +49,7 @@ for line in f_contents:
 
 f.close()
 
-#Prints contact information
+#Saves contact information
 for contact in contacts:
 	s.write(contact)
 
